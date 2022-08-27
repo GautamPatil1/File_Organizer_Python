@@ -24,7 +24,7 @@ Download the file_organizer.py file.
 
 <br>
 <br>
-5.Paste the adress copied from the folder when prompted by the program.
+5.Paste the adress copied from the folder when prompted in the terminal.
 <img src="https://github.com/GautamPatil1/File_Organizer_Python/blob/main/Documentation/adress_terminal.jpg">
 
 <br>
